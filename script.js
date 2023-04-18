@@ -1,2 +1,1 @@
-
-let yourArray = ['one', 2, 'three', true, false];
+let yourArray = ["apple", 42, true, 7.89, "banana"];
